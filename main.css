@@ -80,3 +80,13 @@ em {
     font-size: 16pt;
 }
 
+/* Photography style */
+
+#photographytext{
+    text-align: center;
+}
+
+#water{
+    width: 35em;
+    height: 25em;
+}
