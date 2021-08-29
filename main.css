@@ -90,3 +90,14 @@ em {
     width: 35em;
     height: 25em;
 }
+
+/* Fishing style */
+
+#fishingtext{
+    text-align: center;
+}
+
+#fishpic{
+    width: 35em;
+    height: 25em;
+}
